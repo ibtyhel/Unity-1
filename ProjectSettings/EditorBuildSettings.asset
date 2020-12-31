@@ -11,10 +11,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/JeuAR.unity
     guid: 7e89efcd5f69a184f840c4e366a0cdfe
-  - enabled: 1
-    path: Assets/Scenes/Levels.unity
-    guid: ea478cff0838bd94f981caa25795cf82
-  - enabled: 1
-    path: Assets/Scenes/JeuAR Lvl1.unity
-    guid: a5c1dae0236402349954cb1641931254
   m_configObjects: {}
